@@ -1,3 +1,3 @@
 # Anti Proxy Portal
 
-![alt text](https://travis-ci.com/harshitjindal/AntiProxyPortal.svg?branch=master)
+[![Build Status](https://travis-ci.com/harshitjindal/AntiProxyPortal.svg?branch=master)](https://travis-ci.com/harshitjindal/AntiProxyPortal)
